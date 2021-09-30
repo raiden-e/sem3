@@ -16,14 +16,14 @@ Merkmalsträger: **Studierende**
 | --------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------- |
 | Wohnform                                            | Nominal, da keine Ordnung möglich | allein, WG, Studentenwohnheim, bei den Eltern, sonstiges          |
 | Geschlecht                                          | Nominal, da keine Ordnung möglich | m, w, d                                                           |
-| Monatliche Miete                                    | Metrisch                          | [^2], bei Annahme rein positiver Mieten                           |
+| Monatliche Miete                                    | Metrisch                          | [^1], bei Annahme rein positiver Mieten                           |
 | Entfernung zwischen Wohnung und Fachhochschule      | Metrisch                          | 0 – 20.015 km                                                     |
-| Eigene Beurteilung der bisherigen Studienleistungen | Ordinal [^1]                      | 1 sehr gut, 2 gut, 3 befriedigend, 4 ausreichend, 5 sehr schlecht |
+| Eigene Beurteilung der bisherigen Studienleistungen | Ordinal [^2]                      | 1 sehr gut, 2 gut, 3 befriedigend, 4 ausreichend, 5 sehr schlecht |
 
-[^1]: Ausprägungen können geordnet, aber Abstände nicht interpretiert werden
-
-[^2]:
+[^1]:
 $$ [0; \infty) $$
+
+[^2]: Ausprägungen können geordnet, aber Abstände nicht interpretiert werden
 
 ---
 
