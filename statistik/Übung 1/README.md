@@ -21,7 +21,7 @@ Merkmalsträger: **Studierende**
 | Eigene Beurteilung der bisherigen Studienleistungen | Ordinal [^2]                      | 1 sehr gut, 2 gut, 3 befriedigend, 4 ausreichend, 5 sehr schlecht |
 
 
-[1]: https://latex.codecogs.com/png.latex?\dpi{120}[0;%20\infty%29
+[1]: https://latex.codecogs.com/svg.latex?\dpi{120}[0;%20\infty%29
 [^2]: Ausprägungen können geordnet, aber Abstände nicht interpretiert werden
 
 
