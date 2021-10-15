@@ -1,4 +1,4 @@
-# sem3
+# sem3-statistik
 
 Softwaretechnik und Statistik
 
