@@ -1,4 +1,4 @@
-crash <- read.table(file = "c:/Users/rerdmann/source/repos/sem3/statistik/Übung 2/crashtest.txt", header = TRUE, sep = "\t")
+crash <- read.table(file = "C:/Users/Raiden/source/sem3-statistik/Übung 2/crashtest.txt", header = TRUE, sep = "/t")
 
 # Die erste Zeile im Datensatz entählt Überschriften, die verwendet werden sollen
 

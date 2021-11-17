@@ -15,9 +15,8 @@ Install:
   - `r.rpath.windows` > `D:\R\R-4.1.1\bin`
 
 - Also set the bin folder in %PATH%
-  - `set PATH=%PATH%;D:\R\R-4.1.1\bin`
+  - `set PATH=%PATH%;D:\bins\R-4.1.1\bin`
 - install language server: `install.packages("languageserver")`
   - Open PS in the R bin folder
   - `.\R.exe`
   - `install.packages("languageserver")`
-
